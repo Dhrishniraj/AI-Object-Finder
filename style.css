@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    background-color: coral;
+    color: antiquewhite;
+}
+canvas{
+    border: 2px solid red;
+    margin-top: 100px;
+}
